@@ -1,0 +1,690 @@
+(base)
+bryan@DESKTOP-S1KSCGC MINGW64 ~
+$ conda activate dev
+(dev)
+bryan@DESKTOP-S1KSCGC MINGW64 ~
+$ ls
+'3D Objects'/
+ anaconda3/
+ AppData/
+'Application Data'@
+ Contacts/
+ Cookies@
+'Creative Cloud Files Personal Account bryannanzali@gmail.com 2FD024D55F18A9780A495EA1@AdobeID'/
+ Documents/
+ Downloads/
+ Favorites/
+ IntelGraphicsProfiles/
+ Links/
+'Local Settings'@
+ Music/
+'My Documents'@
+ NetHood@
+ NTUSER.DAT
+ ntuser.dat.LOG1
+ ntuser.dat.LOG2
+ NTUSER.DAT{ae738b3e-016b-11ee-a54e-af538d7adc4e}.TxR.0.regtrans-ms
+ NTUSER.DAT{ae738b3e-016b-11ee-a54e-af538d7adc4e}.TxR.1.regtrans-ms
+ NTUSER.DAT{ae738b3e-016b-11ee-a54e-af538d7adc4e}.TxR.2.regtrans-ms
+ NTUSER.DAT{ae738b3e-016b-11ee-a54e-af538d7adc4e}.TxR.blf
+ NTUSER.DAT{ae738b3f-016b-11ee-a54e-af538d7adc4e}.TM.blf
+ NTUSER.DAT{ae738b3f-016b-11ee-a54e-af538d7adc4e}.TMContainer00000000000000000001.regtrans-ms
+ NTUSER.DAT{ae738b3f-016b-11ee-a54e-af538d7adc4e}.TMContainer00000000000000000002.regtrans-ms
+ ntuser.ini
+ OneDrive/
+'OneDrive - Dallas College'/
+ PrintHood@
+ Recent@
+'Saved Games'/
+ Searches/
+ SendTo@
+'Start Menu'@
+ Templates@
+ test/
+ Videos/
+(dev)
+bryan@DESKTOP-S1KSCGC MINGW64 ~
+$ cd 'OneDrive - Dallas College'
+(dev)
+bryan@DESKTOP-S1KSCGC MINGW64 ~/OneDrive - Dallas College
+$ ls
+ AppData/                                                  IL_EX_1_Postings_BryannaNzali.xlsx
+ Attachments/                                             'learning framework research notes.docx'
+'Bibliography Notes.docx'                                 'Microsoft Teams Chat Files'/
+'Bryanna @ Dallas College.url'                            'Mom homework 1-6.docx'
+'Bryanna Nzali College Admission Essay Rough Draft.docx'  'My Mission Statement.docx'
+'Bryanna Nzali.docx'                                       Notes.docx
+'Can define religion as.docx'                             'Nzali_Bryanna Day 1.docx'
+ Desktop/                                                 'Once I completed the Personality Type test.docx'
+ desktop.ini                                              'PCC Syllabus.pdf'
+'Discussion Board Practice.docx'                          'Physics Notes.docx'
+ Document.docx                                             Pictures/
+ Document1.docx                                           'Psych Review Exam 3.docx'
+ Document2.docx                                            RCHS/
+ Document3.docx                                           'Schoolkids Disinformation.docx'
+ Document4.docx                                           'Section 32.docx'
+ Document5.docx                                           'Shark-Deterrent Wetsuit Reflection.docx'
+ Document6.docx                                           'Skills For Success'/
+ Document7.docx                                           'TRAAP #1.docx'
+ Documents/                                               'Using Visuals in Paper.docx'
+'Exploratory Essay 2.docx'
+(dev)
+bryan@DESKTOP-S1KSCGC MINGW64 ~/OneDrive - Dallas College
+$ cd Documents/
+(dev)
+bryan@DESKTOP-S1KSCGC MINGW64 ~/OneDrive - Dallas College/Documents
+$ ls
+'(Kelly Nzali) JCS STRATEGY GROUP’S DIRECT DEPOSIT AUTHORIZATION FORM.pdf'
+ Adobe/
+'Apartment Notice.docx'
+'Bryanna Nzali Illustration Essay Final Draft   .docx'
+'Bryanna Nzali Illustration Essay Rough Draft   .docx'
+'Chapter 1 Review campus.docx'
+'Contract for Consultancy Services (Kelly Nzali).pdf'
+'Custom Office Templates'/
+ desktop.ini
+'Email Assignment.docx'
+'Junk Food Final.docx'
+'Junk Food Resources.docx'
+'Kelly - note.docx'
+'Kelly - Tues 11am.docx'
+'labs 1, 2, 3.docx'
+'Learning Framework Research Essay.docx'
+ Manuela/
+'Mom homework.docx'
+ Notes/
+ notes.docx
+ NzaliBryanna_ScholarshipEssay.docx
+'OneNote Notebooks'/
+'Personal Fitness Program full semester.docx'
+ RCHS/
+'UT Austin'/
+ Zoom/
+(dev)
+bryan@DESKTOP-S1KSCGC MINGW64 ~/OneDrive - Dallas College/Documents
+$ cd Manuela/
+(dev)
+bryan@DESKTOP-S1KSCGC MINGW64 ~/OneDrive - Dallas College/Documents/Manuela
+$ ls
+'2023 tax return.pdf'               'Cover Letter.docx'  'SMU Essay.pdf'
+'Anaconda for Python'/               Homework/           'tax return 2023 receipt.pdf'
+'Baylor Transcript Receipt.pdf'      LearnPython/         Testing/
+'BU Essay.pdf'                       Python/             'Use Resume.pdf'
+ Class_Requirements/                'Python Scripts'/    'Use resumee.pdf'
+ Class_Requirements.zip             'Resume (1).pdf'     'UTD Transcript.pdf'
+'Code for part 1, Module 2 HW.bas'   Resume.docx
+'Complete SMU Essay 2.pdf'          'SMU Essay 1.pdf'
+(dev)
+bryan@DESKTOP-S1KSCGC MINGW64 ~/OneDrive - Dallas College/Documents/Manuela
+$ cd LearnPython/
+(dev)
+bryan@DESKTOP-S1KSCGC MINGW64 ~/OneDrive - Dallas College/Documents/Manuela/LearnPython
+$ ls
+Assignment1/  Assignment1.py
+(dev)
+bryan@DESKTOP-S1KSCGC MINGW64 ~/OneDrive - Dallas College/Documents/Manuela/LearnPython
+$ cd Assignment1
+(dev)
+bryan@DESKTOP-S1KSCGC MINGW64 ~/OneDrive - Dallas College/Documents/Manuela/LearnPython/Assignment1
+$ ls
+Assignment2/  learning_to_use_git/  quick_python.py  quick_python2.py
+(dev)
+bryan@DESKTOP-S1KSCGC MINGW64 ~/OneDrive - Dallas College/Documents/Manuela/LearnPython/Assignment1
+$ cd ..
+(dev)
+bryan@DESKTOP-S1KSCGC MINGW64 ~/OneDrive - Dallas College/Documents/Manuela/LearnPython
+$ ls
+Assignment1/  Assignment1.py
+(dev)
+bryan@DESKTOP-S1KSCGC MINGW64 ~/OneDrive - Dallas College/Documents/Manuela/LearnPython
+$ mkdir Module3Challenge
+(dev)
+bryan@DESKTOP-S1KSCGC MINGW64 ~/OneDrive - Dallas College/Documents/Manuela/LearnPython
+$ ls
+Assignment1/  Assignment1.py  Module3Challenge/
+(dev)
+bryan@DESKTOP-S1KSCGC MINGW64 ~/OneDrive - Dallas College/Documents/Manuela/LearnPython
+$ cd Module3Challenge/
+(dev)
+bryan@DESKTOP-S1KSCGC MINGW64 ~/OneDrive - Dallas College/Documents/Manuela/LearnPython/Module3Challenge
+$ ls
+(dev)
+bryan@DESKTOP-S1KSCGC MINGW64 ~/OneDrive - Dallas College/Documents/Manuela/LearnPython/Module3Challenge
+$ git clone git@github.com:manuelanzali/python-challenge.git
+Cloning into 'python-challenge'...
+remote: Enumerating objects: 3, done.
+remote: Counting objects: 100% (3/3), done.
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+Receiving objects: 100% (3/3), done.
+(dev)
+bryan@DESKTOP-S1KSCGC MINGW64 ~/OneDrive - Dallas College/Documents/Manuela/LearnPython/Module3Challenge
+$ ls
+python-challenge/
+(dev)
+bryan@DESKTOP-S1KSCGC MINGW64 ~/OneDrive - Dallas College/Documents/Manuela/LearnPython/Module3Challenge
+$ cd python-challenge/
+(dev)
+bryan@DESKTOP-S1KSCGC MINGW64 ~/OneDrive - Dallas College/Documents/Manuela/LearnPython/Module3Challenge/python-challenge (main)
+$ ls
+README.md
+(dev)
+bryan@DESKTOP-S1KSCGC MINGW64 ~/OneDrive - Dallas College/Documents/Manuela/LearnPython/Module3Challenge/python-challenge (main)
+$ mkdir PyBank
+(dev)
+bryan@DESKTOP-S1KSCGC MINGW64 ~/OneDrive - Dallas College/Documents/Manuela/LearnPython/Module3Challenge/python-challenge (main)
+$ mkdir PyPoll
+(dev)
+bryan@DESKTOP-S1KSCGC MINGW64 ~/OneDrive - Dallas College/Documents/Manuela/LearnPython/Module3Challenge/python-challenge (main)
+$ ls
+PyBank/  PyPoll/  README.md
+(dev)
+bryan@DESKTOP-S1KSCGC MINGW64 ~/OneDrive - Dallas College/Documents/Manuela/LearnPython/Module3Challenge/python-challenge (main)
+$ cd PyBank/
+(dev)
+bryan@DESKTOP-S1KSCGC MINGW64 ~/OneDrive - Dallas College/Documents/Manuela/LearnPython/Module3Challenge/python-challenge/PyBank (main)
+$ ls
+(dev)
+bryan@DESKTOP-S1KSCGC MINGW64 ~/OneDrive - Dallas College/Documents/Manuela/LearnPython/Module3Challenge/python-challenge/PyBank (main)
+$ touch main.py
+(dev)
+bryan@DESKTOP-S1KSCGC MINGW64 ~/OneDrive - Dallas College/Documents/Manuela/LearnPython/Module3Challenge/python-challenge/PyBank (main)
+$ ls
+main.py
+(dev)
+bryan@DESKTOP-S1KSCGC MINGW64 ~/OneDrive - Dallas College/Documents/Manuela/LearnPython/Module3Challenge/python-challenge/PyBank (main)
+$ mkdir Resources
+(dev)
+bryan@DESKTOP-S1KSCGC MINGW64 ~/OneDrive - Dallas College/Documents/Manuela/LearnPython/Module3Challenge/python-challenge/PyBank (main)
+$ mkdir analysis
+(dev)
+bryan@DESKTOP-S1KSCGC MINGW64 ~/OneDrive - Dallas College/Documents/Manuela/LearnPython/Module3Challenge/python-challenge/PyBank (main)
+$ ls
+analysis/  main.py  Resources/
+(dev)
+bryan@DESKTOP-S1KSCGC MINGW64 ~/OneDrive - Dallas College/Documents/Manuela/LearnPython/Module3Challenge/python-challenge/PyBank (main)
+$ cd ..
+(dev)
+bryan@DESKTOP-S1KSCGC MINGW64 ~/OneDrive - Dallas College/Documents/Manuela/LearnPython/Module3Challenge/python-challenge (main)
+$ ls
+PyBank/  PyPoll/  README.md
+(dev)
+bryan@DESKTOP-S1KSCGC MINGW64 ~/OneDrive - Dallas College/Documents/Manuela/LearnPython/Module3Challenge/python-challenge (main)
+$ cd PyPoll/
+(dev)
+bryan@DESKTOP-S1KSCGC MINGW64 ~/OneDrive - Dallas College/Documents/Manuela/LearnPython/Module3Challenge/python-challenge/PyPoll (main)
+$ ls
+(dev)
+bryan@DESKTOP-S1KSCGC MINGW64 ~/OneDrive - Dallas College/Documents/Manuela/LearnPython/Module3Challenge/python-challenge/PyPoll (main)
+$ touch main.py
+(dev)
+bryan@DESKTOP-S1KSCGC MINGW64 ~/OneDrive - Dallas College/Documents/Manuela/LearnPython/Module3Challenge/python-challenge/PyPoll (main)
+$ mkdir Resources
+(dev)
+bryan@DESKTOP-S1KSCGC MINGW64 ~/OneDrive - Dallas College/Documents/Manuela/LearnPython/Module3Challenge/python-challenge/PyPoll (main)
+$ mkdir analysis
+(dev)
+bryan@DESKTOP-S1KSCGC MINGW64 ~/OneDrive - Dallas College/Documents/Manuela/LearnPython/Module3Challenge/python-challenge/PyPoll (main)
+$ ls
+analysis/  main.py  Resources/
+(dev)
+bryan@DESKTOP-S1KSCGC MINGW64 ~/OneDrive - Dallas College/Documents/Manuela/LearnPython/Module3Challenge/python-challenge/PyPoll (main)
+$ cd ..
+(dev)
+bryan@DESKTOP-S1KSCGC MINGW64 ~/OneDrive - Dallas College/Documents/Manuela/LearnPython/Module3Challenge/python-challenge (main)
+$ ls
+PyBank/  PyPoll/  README.md
+(dev)
+bryan@DESKTOP-S1KSCGC MINGW64 ~/OneDrive - Dallas College/Documents/Manuela/LearnPython/Module3Challenge/python-challenge (main)
+$ cd ..
+(dev)
+bryan@DESKTOP-S1KSCGC MINGW64 ~/OneDrive - Dallas College/Documents/Manuela/LearnPython/Module3Challenge
+$ ls
+python-challenge/
+(dev)
+bryan@DESKTOP-S1KSCGC MINGW64 ~/OneDrive - Dallas College/Documents/Manuela/LearnPython/Module3Challenge
+$ cd python-challenge/
+(dev)
+bryan@DESKTOP-S1KSCGC MINGW64 ~/OneDrive - Dallas College/Documents/Manuela/LearnPython/Module3Challenge/python-challenge (main)
+$ ls
+PyBank/  PyPoll/  README.md
+(dev)
+bryan@DESKTOP-S1KSCGC MINGW64 ~/OneDrive - Dallas College/Documents/Manuela/LearnPython/Module3Challenge/python-challenge (main)
+$ git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        PyBank/
+        PyPoll/
+
+nothing added to commit but untracked files present (use "git add" to track)
+(dev)
+bryan@DESKTOP-S1KSCGC MINGW64 ~/OneDrive - Dallas College/Documents/Manuela/LearnPython/Module3Challenge/python-challenge (main)
+$ git add .
+(dev)
+bryan@DESKTOP-S1KSCGC MINGW64 ~/OneDrive - Dallas College/Documents/Manuela/LearnPython/Module3Challenge/python-challenge (main)
+$ git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        new file:   PyBank/main.py
+        new file:   PyPoll/main.py
+
+(dev)
+bryan@DESKTOP-S1KSCGC MINGW64 ~/OneDrive - Dallas College/Documents/Manuela/LearnPython/Module3Challenge/python-challenge (main)
+$ git commit -m "This is for my Module 3 Challenge HW"
+[main bb5aa84] This is for my Module 3 Challenge HW
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 PyBank/main.py
+ create mode 100644 PyPoll/main.py
+(dev)
+bryan@DESKTOP-S1KSCGC MINGW64 ~/OneDrive - Dallas College/Documents/Manuela/LearnPython/Module3Challenge/python-challenge (main)
+$ git push origin main
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (4/4), 352 bytes | 352.00 KiB/s, done.
+Total 4 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+To github.com:manuelanzali/python-challenge.git
+   ef1e211..bb5aa84  main -> main
+(dev)
+bryan@DESKTOP-S1KSCGC MINGW64 ~/OneDrive - Dallas College/Documents/Manuela/LearnPython/Module3Challenge/python-challenge (main)
+$ git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+(dev)
+bryan@DESKTOP-S1KSCGC MINGW64 ~/OneDrive - Dallas College/Documents/Manuela/LearnPython/Module3Challenge/python-challenge (main)
+$ cd ..
+(dev)
+bryan@DESKTOP-S1KSCGC MINGW64 ~/OneDrive - Dallas College/Documents/Manuela/LearnPython/Module3Challenge
+$ ls
+python-challenge/
+(dev)
+bryan@DESKTOP-S1KSCGC MINGW64 ~/OneDrive - Dallas College/Documents/Manuela/LearnPython/Module3Challenge
+$ cd ..
+(dev)
+bryan@DESKTOP-S1KSCGC MINGW64 ~/OneDrive - Dallas College/Documents/Manuela/LearnPython
+$ ls
+Assignment1/  Assignment1.py  Module3Challenge/
+(dev)
+bryan@DESKTOP-S1KSCGC MINGW64 ~/OneDrive - Dallas College/Documents/Manuela/LearnPython
+$ cd Assignment1/
+(dev)
+bryan@DESKTOP-S1KSCGC MINGW64 ~/OneDrive - Dallas College/Documents/Manuela/LearnPython/Assignment1
+$ ls
+Assignment2/  learning_to_use_git/  quick_python.py  quick_python2.py
+(dev)
+bryan@DESKTOP-S1KSCGC MINGW64 ~/OneDrive - Dallas College/Documents/Manuela/LearnPython/Assignment1
+$ cd Assignment2/
+(dev)
+bryan@DESKTOP-S1KSCGC MINGW64 ~/OneDrive - Dallas College/Documents/Manuela/LearnPython/Assignment1/Assignment2
+$ ls
+file1.py  file2.py  learning_to_use_git/
+(dev)
+bryan@DESKTOP-S1KSCGC MINGW64 ~/OneDrive - Dallas College/Documents/Manuela/LearnPython/Assignment1/Assignment2
+$ cd ..
+(dev)
+bryan@DESKTOP-S1KSCGC MINGW64 ~/OneDrive - Dallas College/Documents/Manuela/LearnPython/Assignment1
+$ ls
+Assignment2/  learning_to_use_git/  quick_python.py  quick_python2.py
+(dev)
+bryan@DESKTOP-S1KSCGC MINGW64 ~/OneDrive - Dallas College/Documents/Manuela/LearnPython/Assignment1
+$ cd ..
+(dev)
+bryan@DESKTOP-S1KSCGC MINGW64 ~/OneDrive - Dallas College/Documents/Manuela/LearnPython
+$ ls
+Assignment1/  Assignment1.py  Module3Challenge/
+(dev)
+bryan@DESKTOP-S1KSCGC MINGW64 ~/OneDrive - Dallas College/Documents/Manuela/LearnPython
+$ cd Module3Challenge/
+(dev)
+bryan@DESKTOP-S1KSCGC MINGW64 ~/OneDrive - Dallas College/Documents/Manuela/LearnPython/Module3Challenge
+$ ls
+python-challenge/
+(dev)
+bryan@DESKTOP-S1KSCGC MINGW64 ~/OneDrive - Dallas College/Documents/Manuela/LearnPython/Module3Challenge
+$ cd python-challenge/
+(dev)
+bryan@DESKTOP-S1KSCGC MINGW64 ~/OneDrive - Dallas College/Documents/Manuela/LearnPython/Module3Challenge/python-challenge (main)
+$ ls
+PyBank/  PyPoll/  README.md
+(dev)
+bryan@DESKTOP-S1KSCGC MINGW64 ~/OneDrive - Dallas College/Documents/Manuela/LearnPython/Module3Challenge/python-challenge (main)
+$ cd PyBank/
+(dev)
+bryan@DESKTOP-S1KSCGC MINGW64 ~/OneDrive - Dallas College/Documents/Manuela/LearnPython/Module3Challenge/python-challenge/PyBank (main)
+$ ls
+analysis/  main.py  Resources/
+(dev)
+bryan@DESKTOP-S1KSCGC MINGW64 ~/OneDrive - Dallas College/Documents/Manuela/LearnPython/Module3Challenge/python-challenge/PyBank (main)
+$ cd main.py
+bash: cd: main.py: Not a directory
+(dev)
+bryan@DESKTOP-S1KSCGC MINGW64 ~/OneDrive - Dallas College/Documents/Manuela/LearnPython/Module3Challenge/python-challenge/PyBank (main)
+$ open main.py
+bash: open: command not found
+(dev)
+bryan@DESKTOP-S1KSCGC MINGW64 ~/OneDrive - Dallas College/Documents/Manuela/LearnPython/Module3Challenge/python-challenge/PyBank (main)
+$ python main.py
+  File "C:\Users\bryan\OneDrive - Dallas College\Documents\Manuela\LearnPython\Module3Challenge\python-challenge\PyBank\main.py", line 30
+    with open(csv_file,'r') as csv_file
+                                       ^
+SyntaxError: expected ':'
+(dev)
+bryan@DESKTOP-S1KSCGC MINGW64 ~/OneDrive - Dallas College/Documents/Manuela/LearnPython/Module3Challenge/python-challenge/PyBank (main)
+$ python main.py
+  File "C:\Users\bryan\OneDrive - Dallas College\Documents\Manuela\LearnPython\Module3Challenge\python-challenge\PyBank\main.py", line 78
+    print("Average Change:$", round(average_of_changes, 0)
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+SyntaxError: invalid syntax. Perhaps you forgot a comma?
+(dev)
+bryan@DESKTOP-S1KSCGC MINGW64 ~/OneDrive - Dallas College/Documents/Manuela/LearnPython/Module3Challenge/python-challenge/PyBank (main)
+$ python main.py
+  File "C:\Users\bryan\OneDrive - Dallas College\Documents\Manuela\LearnPython\Module3Challenge\python-challenge\PyBank\main.py", line 80
+    print("Greatest Decrease in Profits:", date_of_greatest_decrease + ("($", greatest_decrease, ")")
+         ^
+SyntaxError: '(' was never closed
+(dev)
+bryan@DESKTOP-S1KSCGC MINGW64 ~/OneDrive - Dallas College/Documents/Manuela/LearnPython/Module3Challenge/python-challenge/PyBank (main)
+$ python main.py
+Traceback (most recent call last):
+  File "C:\Users\bryan\OneDrive - Dallas College\Documents\Manuela\LearnPython\Module3Challenge\python-challenge\PyBank\main.py", line 36, in <module>
+    total_months = total_number_months(budgetdata_csv)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\bryan\OneDrive - Dallas College\Documents\Manuela\LearnPython\Module3Challenge\python-challenge\PyBank\main.py", line 30, in total_number_months
+    with open(csv_file,'r') as csv_file :
+         ^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '..\\Resources\\budget_data.csv'
+(dev)
+bryan@DESKTOP-S1KSCGC MINGW64 ~/OneDrive - Dallas College/Documents/Manuela/LearnPython/Module3Challenge/python-challenge/PyBank (main)
+$ python main.py
+Traceback (most recent call last):
+  File "C:\Users\bryan\OneDrive - Dallas College\Documents\Manuela\LearnPython\Module3Challenge\python-challenge\PyBank\main.py", line 36, in <module>
+    total_months = total_number_months(budgetdata_csv)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\bryan\OneDrive - Dallas College\Documents\Manuela\LearnPython\Module3Challenge\python-challenge\PyBank\main.py", line 31, in total_number_months
+    csvreader = csv.reader(csvfile)
+                           ^^^^^^^
+NameError: name 'csvfile' is not defined. Did you mean: 'csv_file'?
+(dev)
+bryan@DESKTOP-S1KSCGC MINGW64 ~/OneDrive - Dallas College/Documents/Manuela/LearnPython/Module3Challenge/python-challenge/PyBank (main)
+$ python main.py
+Traceback (most recent call last):
+  File "C:\Users\bryan\OneDrive - Dallas College\Documents\Manuela\LearnPython\Module3Challenge\python-challenge\PyBank\main.py", line 36, in <module>
+    total_months = total_number_months(budgetdata_csv)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\bryan\OneDrive - Dallas College\Documents\Manuela\LearnPython\Module3Challenge\python-challenge\PyBank\main.py", line 31, in total_number_months
+    csvreader = csv.reader(csvfile)
+                           ^^^^^^^
+NameError: name 'csvfile' is not defined. Did you mean: 'csv_file'?
+(dev)
+bryan@DESKTOP-S1KSCGC MINGW64 ~/OneDrive - Dallas College/Documents/Manuela/LearnPython/Module3Challenge/python-challenge/PyBank (main)
+$ python main.py
+Total Months: 86
+Total:$ 22564198
+Average Change:$ 4448.127906976744
+Greatest Increase in Profits: ($ 1862002 )
+Greatest Decrease in Profits: ($ -1825558 )
+(dev)
+bryan@DESKTOP-S1KSCGC MINGW64 ~/OneDrive - Dallas College/Documents/Manuela/LearnPython/Module3Challenge/python-challenge/PyBank (main)
+$ python main.py
+Total Months: 86
+Total:$ 22564198
+Average Change:$ 4448.127906976744
+Greatest Increase in Profits: date_of_greatest_increase($ 1862002 )
+Greatest Decrease in Profits: date_of_greatest_decrease($ -1825558 )
+(dev)
+bryan@DESKTOP-S1KSCGC MINGW64 ~/OneDrive - Dallas College/Documents/Manuela/LearnPython/Module3Challenge/python-challenge/PyBank (main)
+$ python main.py
+  File "C:\Users\bryan\OneDrive - Dallas College\Documents\Manuela\LearnPython\Module3Challenge\python-challenge\PyBank\main.py", line 79
+    if change == greatest_increase
+                                  ^
+SyntaxError: expected ':'
+(dev)
+bryan@DESKTOP-S1KSCGC MINGW64 ~/OneDrive - Dallas College/Documents/Manuela/LearnPython/Module3Challenge/python-challenge/PyBank (main)
+$ python main.py
+Total Months: 86
+Total:$ 22564198
+Average Change:$ 4448.127906976744
+Greatest Increase in Profits:  ($ 1862002 )
+Greatest Decrease in Profits:  ($ -1825558 )
+(dev)
+bryan@DESKTOP-S1KSCGC MINGW64 ~/OneDrive - Dallas College/Documents/Manuela/LearnPython/Module3Challenge/python-challenge/PyBank (main)
+$ python main.py
+Total Months: 86
+Total:$ 22564198
+Average Change:$ 4448.127906976744
+Greatest Increase in Profits: Aug-16($ 1862002 )
+Greatest Decrease in Profits: Feb-14($ -1825558 )
+(dev)
+bryan@DESKTOP-S1KSCGC MINGW64 ~/OneDrive - Dallas College/Documents/Manuela/LearnPython/Module3Challenge/python-challenge/PyBank (main)
+$ python main.py
+Total Months: 86
+Total:$ 22564198
+Average Change:$ 4448.127906976744
+Greatest Increase in Profits: Aug-16($ 1862002 )
+Greatest Decrease in Profits: Feb-14($ -1825558 )
+(dev)
+bryan@DESKTOP-S1KSCGC MINGW64 ~/OneDrive - Dallas College/Documents/Manuela/LearnPython/Module3Challenge/python-challenge/PyBank (main)
+$ python main.py
+Total Months: 86
+Total:$ 22564198
+Average Change:$ 4448.127906976744
+Greatest Increase in Profits: Aug-16 ($ 1862002 )
+Greatest Decrease in Profits: Feb-14 ($ -1825558 )
+(dev)
+bryan@DESKTOP-S1KSCGC MINGW64 ~/OneDrive - Dallas College/Documents/Manuela/LearnPython/Module3Challenge/python-challenge/PyBank (main)
+$ python main.py
+Total Months: 86
+Total:$ 22564198
+Average Change:$ 4448.127906976744
+Greatest Increase in Profits: Aug-16 ($ 1862002 )
+Greatest Decrease in Profits: Feb-14 ($ -1825558 )
+(dev)
+bryan@DESKTOP-S1KSCGC MINGW64 ~/OneDrive - Dallas College/Documents/Manuela/LearnPython/Module3Challenge/python-challenge/PyBank (main)
+$ python main.py
+Total Months: 86
+Total:$ 22564198
+Average Change:$ 4448.127906976744
+Greatest Increase in Profits: Aug-16 ($ 1862002 )
+Greatest Decrease in Profits: Feb-14 ($ -1825558 )
+(dev)
+bryan@DESKTOP-S1KSCGC MINGW64 ~/OneDrive - Dallas College/Documents/Manuela/LearnPython/Module3Challenge/python-challenge/PyBank (main)
+$ python main.py
+Total Months: 86
+Total:$ 22564198
+Average Change:$ 4500.458823529411
+Greatest Increase in Profits: Aug-16 ($ 1862002 )
+Greatest Decrease in Profits: Feb-14 ($ -1825558 )
+(dev)
+bryan@DESKTOP-S1KSCGC MINGW64 ~/OneDrive - Dallas College/Documents/Manuela/LearnPython/Module3Challenge/python-challenge/PyBank (main)
+$ python main.py
+Total Months: 86
+Total:$ 22564198
+Average Change:$ 4500.458823529411
+Greatest Increase in Profits: Aug-16 ($ 1862002 )
+Greatest Decrease in Profits: Feb-14 ($ -1825558 )
+(dev)
+bryan@DESKTOP-S1KSCGC MINGW64 ~/OneDrive - Dallas College/Documents/Manuela/LearnPython/Module3Challenge/python-challenge/PyBank (main)
+$ python main.py
+Total Months: 86
+Total:$ 22564198
+Average Change:$ 4500.447058823529
+Greatest Increase in Profits: Aug-16 ($ 1862002 )
+Greatest Decrease in Profits: Feb-14 ($ -1825558 )
+(dev)
+bryan@DESKTOP-S1KSCGC MINGW64 ~/OneDrive - Dallas College/Documents/Manuela/LearnPython/Module3Challenge/python-challenge/PyBank (main)
+$ python main.py
+Total Months: 86
+Total:$ 22564198
+Average Change:$ 4448.127906976744
+Greatest Increase in Profits: Aug-16 ($ 1862002 )
+Greatest Decrease in Profits: Feb-14 ($ -1825558 )
+(dev)
+bryan@DESKTOP-S1KSCGC MINGW64 ~/OneDrive - Dallas College/Documents/Manuela/LearnPython/Module3Challenge/python-challenge/PyBank (main)
+$ python main.py
+Total Months: 86
+Total:$ 22564198
+Average Change:$ -4500.458823529411
+Greatest Increase in Profits: Aug-16 ($ 1862002 )
+Greatest Decrease in Profits: Feb-14 ($ -1825558 )
+(dev)
+bryan@DESKTOP-S1KSCGC MINGW64 ~/OneDrive - Dallas College/Documents/Manuela/LearnPython/Module3Challenge/python-challenge/PyBank (main)
+$ python main.py
+Total Months: 86
+Traceback (most recent call last):
+  File "C:\Users\bryan\OneDrive - Dallas College\Documents\Manuela\LearnPython\Module3Challenge\python-challenge\PyBank\main.py", line 68, in <module>
+    average_of_changes = sum(change) / (len(change)-1)
+                         ^^^^^^^^^^^
+TypeError: 'int' object is not iterable
+(dev)
+bryan@DESKTOP-S1KSCGC MINGW64 ~/OneDrive - Dallas College/Documents/Manuela/LearnPython/Module3Challenge/python-challenge/PyBank (main)
+$ python main.py
+Total Months: 86
+Traceback (most recent call last):
+  File "C:\Users\bryan\OneDrive - Dallas College\Documents\Manuela\LearnPython\Module3Challenge\python-challenge\PyBank\main.py", line 68, in <module>
+    average_of_changes = mean(changes)
+                         ^^^^
+NameError: name 'mean' is not defined
+(dev)
+bryan@DESKTOP-S1KSCGC MINGW64 ~/OneDrive - Dallas College/Documents/Manuela/LearnPython/Module3Challenge/python-challenge/PyBank (main)
+$ python main.py
+Total Months: 86
+Total:$ 22564198
+Average Change:$ 4448.127906976744
+Greatest Increase in Profits: Aug-16 ($ 1862002 )
+Greatest Decrease in Profits: Feb-14 ($ -1825558 )
+(dev)
+bryan@DESKTOP-S1KSCGC MINGW64 ~/OneDrive - Dallas College/Documents/Manuela/LearnPython/Module3Challenge/python-challenge/PyBank (main)
+$ python main.py
+Total Months: 86
+Total:$ 22564198
+Average Change:$ 4500.458823529411
+Greatest Increase in Profits: Aug-16 ($ 1862002 )
+Greatest Decrease in Profits: Feb-14 ($ -1825558 )
+(dev)
+bryan@DESKTOP-S1KSCGC MINGW64 ~/OneDrive - Dallas College/Documents/Manuela/LearnPython/Module3Challenge/python-challenge/PyBank (main)
+$ python main.py
+Total Months: 86
+[1088983, -1443517, 631156, -1004755, 1581126, -289272, -1098929, 1167557, -806093, 1124485, -1736491, -408383, 604557,-294345, 1327485, 394323, 243585, -617439, -1530577, 1390390, -1130397, 1293604, 641758, -337413, -52031, -937192, 863841, -76245, -100481, -960729, 591856, 54930, 680102, -250254, -840415, 582358, -48628, -135256, 978586, -599210, -442789, 652924, -1005714, 1167373, -234900, -165147, -52275, -302320, 719028, -1825558, 1287083, -48303, 210234, -236414, 585165, -1400632, 839777, 465229, 317811, -760202, -71868, 795457, -182685, -1242836, 1371884, -445193, 10025, -1043998, 1350395, 80538, -1223250, 104148, 843924, -1808664, 1505005, 306402, -143603, -1266937, -162519, 1862002, -52986, -1627245,616795, 628522, 90895, -224669]
+Total:$ 22564198
+Average Change:$ 4500.458823529411
+Greatest Increase in Profits: Aug-16 ($ 1862002 )
+Greatest Decrease in Profits: Feb-14 ($ -1825558 )
+(dev)
+bryan@DESKTOP-S1KSCGC MINGW64 ~/OneDrive - Dallas College/Documents/Manuela/LearnPython/Module3Challenge/python-challenge/PyBank (main)
+$ python main.py
+Total Months: 86
+Traceback (most recent call last):
+  File "C:\Users\bryan\OneDrive - Dallas College\Documents\Manuela\LearnPython\Module3Challenge\python-challenge\PyBank\main.py", line 57, in <module>
+    profit_and_losses = int(row[2])
+                            ~~~^^^
+IndexError: list index out of range
+(dev)
+bryan@DESKTOP-S1KSCGC MINGW64 ~/OneDrive - Dallas College/Documents/Manuela/LearnPython/Module3Challenge/python-challenge/PyBank (main)
+$ python main.py
+Total Months: 86
+[1088982, -1443517, 631156, -1004755, 1581126, -289272, -1098929, 1167557, -806093, 1124485, -1736491, -408383, 604557,-294345, 1327485, 394323, 243585, -617439, -1530577, 1390390, -1130397, 1293604, 641758, -337413, -52031, -937192, 863841, -76245, -100481, -960729, 591856, 54930, 680102, -250254, -840415, 582358, -48628, -135256, 978586, -599210, -442789, 652924, -1005714, 1167373, -234900, -165147, -52275, -302320, 719028, -1825558, 1287083, -48303, 210234, -236414, 585165, -1400632, 839777, 465229, 317811, -760202, -71868, 795457, -182685, -1242836, 1371884, -445193, 10025, -1043998, 1350395, 80538, -1223250, 104148, 843924, -1808664, 1505005, 306402, -143603, -1266937, -162519, 1862002, -52986, -1627245,616795, 628522, 90895, -224669]
+Total:$ 22564112
+Average Change:$ 4448.116279069767
+Greatest Increase in Profits: Aug-16 ($ 1862002 )
+Greatest Decrease in Profits: Feb-14 ($ -1825558 )
+(dev)
+bryan@DESKTOP-S1KSCGC MINGW64 ~/OneDrive - Dallas College/Documents/Manuela/LearnPython/Module3Challenge/python-challenge/PyBank (main)
+$ python main.py
+Total Months: 86
+Traceback (most recent call last):
+  File "C:\Users\bryan\OneDrive - Dallas College\Documents\Manuela\LearnPython\Module3Challenge\python-challenge\PyBank\main.py", line 70, in <module>
+    average_of_changes = sum(changes)/len(changes)
+                         ~~~~~~~~~~~~^~~~~~~~~~~~~
+ZeroDivisionError: division by zero
+(dev)
+bryan@DESKTOP-S1KSCGC MINGW64 ~/OneDrive - Dallas College/Documents/Manuela/LearnPython/Module3Challenge/python-challenge/PyBank (main)
+$ python main.py
+Total Months: 86
+Traceback (most recent call last):
+  File "C:\Users\bryan\OneDrive - Dallas College\Documents\Manuela\LearnPython\Module3Challenge\python-challenge\PyBank\main.py", line 70, in <module>
+    average_of_changes = (sum(changes))/(len(changes))
+                         ~~~~~~~~~~~~~~^^~~~~~~~~~~~~~
+ZeroDivisionError: division by zero
+(dev)
+bryan@DESKTOP-S1KSCGC MINGW64 ~/OneDrive - Dallas College/Documents/Manuela/LearnPython/Module3Challenge/python-challenge/PyBank (main)
+$ python main.py
+  File "C:\Users\bryan\OneDrive - Dallas College\Documents\Manuela\LearnPython\Module3Challenge\python-challenge\PyBank\main.py", line 70
+    average_of_changes = sum(changes))/(len(changes) if len(changes)>0  else 0
+                                     ^
+SyntaxError: unmatched ')'
+(dev)
+bryan@DESKTOP-S1KSCGC MINGW64 ~/OneDrive - Dallas College/Documents/Manuela/LearnPython/Module3Challenge/python-challenge/PyBank (main)
+$ python main.py
+  File "C:\Users\bryan\OneDrive - Dallas College\Documents\Manuela\LearnPython\Module3Challenge\python-challenge\PyBank\main.py", line 70
+    average_of_changes = sum(changes)/(len(changes) if len(changes)>0  else 0
+                                      ^
+SyntaxError: '(' was never closed
+(dev)
+bryan@DESKTOP-S1KSCGC MINGW64 ~/OneDrive - Dallas College/Documents/Manuela/LearnPython/Module3Challenge/python-challenge/PyBank (main)
+$ python main.py
+Total Months: 86
+[]
+Total:$ 22564198
+Average Change:$ 0
+Traceback (most recent call last):
+  File "C:\Users\bryan\OneDrive - Dallas College\Documents\Manuela\LearnPython\Module3Challenge\python-challenge\PyBank\main.py", line 85, in <module>
+    print("Greatest Increase in Profits:", date_of_greatest_increase + " " + "($", str(greatest_increase), ")")
+                                           ~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~
+TypeError: unsupported operand type(s) for +: 'NoneType' and 'str'
+(dev)
+bryan@DESKTOP-S1KSCGC MINGW64 ~/OneDrive - Dallas College/Documents/Manuela/LearnPython/Module3Challenge/python-challenge/PyBank (main)
+$ python main.py
+Total Months: 86
+Total:$ 22564198
+Average Change:$ -8311.105882352942
+Greatest Increase in Profits: Aug-16 ($ 1862002 )
+Greatest Decrease in Profits: Feb-14 ($ -1825558 )
+(dev)
+bryan@DESKTOP-S1KSCGC MINGW64 ~/OneDrive - Dallas College/Documents/Manuela/LearnPython/Module3Challenge/python-challenge/PyBank (main)
+$ python main.py
+Total Months: 86
+Total:$ 22564198
+Average Change:$ -8311.11
+Greatest Increase in Profits: Aug-16 ($ 1862002 )
+Greatest Decrease in Profits: Feb-14 ($ -1825558 )
+(dev)
+bryan@DESKTOP-S1KSCGC MINGW64 ~/OneDrive - Dallas College/Documents/Manuela/LearnPython/Module3Challenge/python-challenge/PyBank (main)
+$ python main.py
+Total Months: 86
+Financial Analysis
+----------------------------
+Total:$ 22564198
+Average Change:$ -8311.11
+Greatest Increase in Profits: Aug-16 ($ 1862002 )
+Greatest Decrease in Profits: Feb-14 ($ -1825558 )
+(dev)
+bryan@DESKTOP-S1KSCGC MINGW64 ~/OneDrive - Dallas College/Documents/Manuela/LearnPython/Module3Challenge/python-challenge/PyBank (main)
+$ python main.py
+Financial Analysis
+----------------------------
+Total Months: 86
+Total:$ 22564198
+Average Change:$ -8311.11
+Greatest Increase in Profits: Aug-16 ($ 1862002 )
+Greatest Decrease in Profits: Feb-14 ($ -1825558 )
+(dev)
+bryan@DESKTOP-S1KSCGC MINGW64 ~/OneDrive - Dallas College/Documents/Manuela/LearnPython/Module3Challenge/python-challenge/PyBank (main)
+$ python main.py
+Financial Analysis
+----------------------------
+Total Months: 86
+Total: $ 22564198
+Average Change: $ -8311.11
+Greatest Increase in Profits: Aug-16 ($ 1862002 )
+Greatest Decrease in Profits: Feb-14 ($ -1825558 )
+(dev)
+bryan@DESKTOP-S1KSCGC MINGW64 ~/OneDrive - Dallas College/Documents/Manuela/LearnPython/Module3Challenge/python-challenge/PyBank (main)
+$
