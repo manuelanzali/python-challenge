@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 import os
 import csv
@@ -87,3 +88,6 @@ if date_of_greatest_increase is not None:
 if date_of_greatest_decrease is not None:
     print("Greatest Decrease in Profits:", date_of_greatest_decrease + " " + "($", str(greatest_decrease), ")")
 
+=======
+
+>>>>>>> 3d5dd67cc07e0ef9fadaa996a73a652e011801c8
