@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 import os
 import csv
@@ -6,6 +5,7 @@ import csv
 
 # Path to collect data from Resources folder
 budgetdata_csv = os.path.join('Resources', 'budget_data.csv')
+file_to_create = os.path.join('analysis', 'budget_analysis.text')
 
 # Define the function and have it accept the 'budget_data' as the sole parameter
 def print_records(budget_data) :
@@ -76,18 +76,44 @@ greatest_decrease = min(changes) if changes else 0
 date_of_greatest_increase = dates[changes.index(greatest_increase)] if changes else None
 date_of_greatest_decrease = dates[changes.index(greatest_decrease)] if changes else None
 
+# Print to text file
+with open(file_to_create, "w") as txt_file:
 
-# Print "Total", "Average change", "Greatest Increase in Profits", and "Greatest Decrease in Profits"
-print("Financial Analysis")
-print("----------------------------")
-print("Total Months:", total_months)
-print("Total: $",total_profit_and_losses)
-print("Average Change: $",average_of_changes)
-if date_of_greatest_increase is not None:
-    print("Greatest Increase in Profits:", date_of_greatest_increase + " " + "($", str(greatest_increase), ")")
-if date_of_greatest_decrease is not None:
-    print("Greatest Decrease in Profits:", date_of_greatest_decrease + " " + "($", str(greatest_decrease), ")")
+    # Print "Total", "Average change", "Greatest Increase in Profits", and "Greatest Decrease in Profits"
+        print("Financial Analysis")
+        txt_file.write("Financial Analysis\n")
 
-=======
+        print("----------------------------")
+        txt_file.write("----------------------------\n")
 
->>>>>>> 3d5dd67cc07e0ef9fadaa996a73a652e011801c8
+        total_months_text = f"Total Months: {total_months}"
+        print(total_months_text)
+        txt_file.write(total_months_text + "\n")
+  
+
+        total_profit_text = f"Total: ${total_profit_and_losses}"
+        print(total_profit_text)
+        txt_file.write(total_profit_text + "\n")
+   
+
+        average_change_text = f"Average Change: ${average_of_changes}"
+        print(average_change_text)
+        txt_file.write(average_change_text + "\n")
+  
+
+
+
+        if date_of_greatest_increase is not None:
+            greatest_increase_text = f"Greatest Increase in Profits: {date_of_greatest_increase} (${greatest_increase})"
+            print(greatest_increase_text)
+            txt_file.write(greatest_increase_text + "\n")
+
+
+
+        if date_of_greatest_decrease is not None:
+            greatest_decrease_text = f"Greatest Decrease in Profits: {date_of_greatest_decrease} (${greatest_decrease})"
+            print(greatest_decrease_text)
+            txt_file.write(greatest_decrease_text + "\n")
+
+
+

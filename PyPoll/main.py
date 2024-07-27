@@ -5,6 +5,7 @@ import csv
 
 # Path to collect data from Resources folder
 electiondata_csv = os.path.join('Resources', 'election_data.csv')
+file_to_create = os.path.join('analysis', 'election_analysis.text')
 
 # Define the function and have it accept the 'election_data' as the sole parameter
 def print_votes(election_data) :
@@ -70,17 +71,45 @@ for candidate, votes in candidate_number_of_votes.items():
         winner = candidate
 
 
+#Print to text file
+with open(file_to_create, "w") as txt_file:
+
+
 # Print "Election Results", "Total Votes", candidates with percentages and votes, and "winner"
-print("Election Results")
-print("----------------------------")
-print(f"Total Votes: {total_votes}")
-print("----------------------------")
-# Calculate the percentage of votes each candidate won
-for candidate in candidates_list:
-    votes = candidate_number_of_votes.get(candidate,0)
-    percentage_of_votes = (votes / total_votes) * 100
-    print(f"{candidate}: {percentage_of_votes:.3f}% ({votes})")
-print("----------------------------")
-print(f"Winner: {winner}")
-print("----------------------------")
+
+
+    print("Election Results")
+    txt_file.write("Election Results\n")
+
+
+    print("----------------------------")
+    txt_file.write("----------------------------\n")
+
+    total_votes_text = f"Total Votes: {total_votes}"
+    print(total_votes_text)
+    txt_file.write(total_votes_text + "\n")
+    #print(f"Total Votes: {total_votes}")
+
+    print("----------------------------")
+    txt_file.write("----------------------------\n")
+
+
+
+    for candidate in candidates_list:
+        votes = candidate_number_of_votes.get(candidate, 0)
+        percentage_of_votes = (votes / total_votes) * 100
+        txt_file.write(f"{candidate}: {percentage_of_votes:.3f}% ({votes})\n")
+        print(f"{candidate}: {percentage_of_votes:.3f}% ({votes})")
+
+    print("----------------------------")
+    txt_file.write("----------------------------\n")
+
+    winner_text = f"Winner: {winner}"
+    print(winner_text)
+    txt_file.write(winner_text + "\n")
+    #print(f"Winner: {winner}")
+
+    print("----------------------------")
+    txt_file.write("----------------------------\n")
+
 
